@@ -1,24 +1,24 @@
 <p align="center">
-  <a href="https://emilia.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+  <a href="">
+    <img alt="" src="" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Emilia
+  Portfolio: Snarky Cards
 </h1>
 
 <p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Emilia is released under the 0BSD license." />
+  <a href="https://github.com/">
+    <img src="" alt="" />
   </a>
-  <a href="https://github.com/sponsors/LekoArts">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
+  <a href="https://github.com/sponsors/limitlessmatrix">
+    <img alt="GitHub Sponsors" src="">
   </a>
-  <a href="https://www.lekoarts.de?utm_source=emilia&utm_medium=Starter">
-    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
+  <a href="">
+    <img alt="Website" src="">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+  <a href="https://twitter.com/">
+    <img src="" alt="Follow @lekoarts_de" />
   </a>
 </p>
 
